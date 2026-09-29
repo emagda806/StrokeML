@@ -1,16 +1,16 @@
 # StrokeML
 
-Machine learning project for stroke-related analysis and modeling.
+Repozytorium do pracy "Zastosowanie metody SHAP do interpretacji wyników modelu przewidującego ryzyko udaru mózgu – budowa interfejsu dla lekarza".
 
-## Project structure
+## Struktura projektu
 
 ```
 .
 ├── data/
-│   └── raw/          # Original, immutable datasets
-├── notebooks/        # Exploratory analysis and experiments
-├── src/              # Reusable source code and pipelines
-├── app/              # Application / demo interface
+│   └── raw/          # dataset z Kaggle 
+├── notebooks/        # Eksploracyjna analiza danych
+├── src/              # Model
+├── app/              # Interfejs
 ├── README.md
 └── .gitignore
 ```
